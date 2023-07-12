@@ -25,6 +25,7 @@ import java.io.IOException;
 @RequestMapping("/member")
 public class MemberController {
 
+
     @Inject
 
     // menu.do를 클릭하면 login으로 이동
